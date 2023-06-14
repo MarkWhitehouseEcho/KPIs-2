@@ -1,5 +1,9 @@
 KPI's
-How many times has the API been used
-How many times has the security policy be invoked
-How does the API perform, CPU/RAM
-Feedback from users/testers/teams?
+How many times has the API been used.              The API has been used 100 times per hour
+How many times has the security policy be invoked. The security policy should be called 1000 times per hour
+How does the API perform, CPU/RAM.                 CPU/RAM should not go above 80%
+Feedback from users/testers/teams.                 Feedback should be considered and contiual improvement should be driven
+Is the API called from multiple experiences        The API should be used by multiple experiences
+Number of assets.                                  A relevant number of assests should be available on the Anypoint Exchange
+Has the SDLC reduced in time                       Time to marked should reduce by 10%                       
+Has automation been used
